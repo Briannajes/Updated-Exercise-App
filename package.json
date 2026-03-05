@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "lockfileVersion": 3,
   "requires": true,
-  "homepage": "https://github.com/Briannajes/Updated-Exercise-App",
+  "homepage": "https://briannajes.github.io/Updated-Exercise-App",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
