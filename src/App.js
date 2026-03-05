@@ -8,7 +8,7 @@ function App() {
   const exercises = [
     {name: 'Push-ups', type: 'repetition'},
     {name: 'Sit-ups', type:'repetition'},
-    {name: 'Running', type: 'duration', 'distance'},
+    {name: 'Running', type:'distance'},
     {name: 'Plank', type:'duration'},
     {name: 'Walking', type:'distance'},
   ];
