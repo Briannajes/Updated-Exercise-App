@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 const DistanceExercise = ({ name })  => {
-    const [distance, setDistance] = ueState(0);
+    const [distance, setDistance] = useState(0);
     const incrementDistance = () => {
         setDistance((prevDistance) => prevDistance + 1);
     };
